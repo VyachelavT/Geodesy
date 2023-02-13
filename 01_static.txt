@@ -1,0 +1,23 @@
+% program   : TeoboxBot ver. 4.1.6
+% inp file  : STATIC_1_nsk10120.22o.obs
+% inp file  : BRDC00IGS_R_20220120000_01D_MN.rnx
+% inp file  : brdc0120.22g
+% inp file  : brdc0120.22n
+% inp file  : Sta21923.sp3
+% inp file  : igs21923.sp3
+% inp file  : Sta21923.clk
+% inp file  : igs21923.clk
+% obs start : 2022/01/12 00:00:00.0 GPST (week2192 259200.0s)
+% obs end   : 2022/01/12 23:59:30.0 GPST (week2192 345570.0s)
+% pos mode  : ppp-static
+% solution  : combined
+% elev mask : 10.0 deg
+% dynamics  : off
+% ephemeris : precise
+% navi sys  : gps glonass
+---
+STATIC_1_nsk10120.22o:
+1	2022.03	^--^	55.01225515	82.98502328	141.314	1	14	0.02	0.02	0.02	999.00
+
+---
+
